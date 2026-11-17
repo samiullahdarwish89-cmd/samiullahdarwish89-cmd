@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="962" viewBox="0 0 1000 962" role="img" aria-labelledby="analytics-title analytics-desc">
+<title id="analytics-title">Samiullah Darwish — Public GitHub analytics</title>
+<desc id="analytics-desc">samiullahdarwish89-cmd: 3 public repositories, 8 public contributions, 3 active days from January 1, 2026 through 2026-11-17 UTC. Charts show actual weekly contributions, public code language bytes, weekday contributions and contribution types. Private repositories are excluded.</desc>
+<defs><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#121b30"/><stop offset="1" stop-color="#17172f"/></linearGradient><linearGradient id="hero" x2="1" y2="1"><stop stop-color="#18233c"/><stop offset="1" stop-color="#1a1837"/></linearGradient><linearGradient id="bar" x2="0" y2="1"><stop stop-color="#72e0df"/><stop offset="1" stop-color="#aa8bf5"/></linearGradient></defs>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="1" y="1" width="998" height="330" rx="20" fill="url(#hero)" stroke="#8c9ac2" stroke-opacity="0.22"/>
+<text x="32" y="36" font-size="12" fill="#9ecedc" font-weight="600" text-anchor="start" letter-spacing="2">GITHUB / ANALYTICS</text>
+<text x="32" y="78" font-size="34" fill="#eef2ff" font-weight="600" text-anchor="start" letter-spacing="0">Samiullah Darwish</text>
+<text x="968" y="36" font-size="12" fill="#a4b1ce" font-weight="400" text-anchor="end" letter-spacing="0">Updated 2026-11-17 · UTC</text>
+<text x="32" y="104" font-size="15" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Public activity. A clear view of the work shared on GitHub.</text>
+<text x="32" y="163" font-size="38" fill="#b59bff" font-weight="600" text-anchor="start" letter-spacing="0">3</text>
+<text x="32" y="190" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Public repositories</text>
+<text x="355" y="163" font-size="38" fill="#64d9dc" font-weight="600" text-anchor="start" letter-spacing="0">8</text>
+<text x="355" y="190" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Contributions · YTD</text>
+<text x="674" y="163" font-size="38" fill="#7da7ff" font-weight="600" text-anchor="start" letter-spacing="0">3</text>
+<text x="674" y="190" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Active days · YTD</text>
+<text x="32" y="207" font-size="14" fill="#eef2ff" font-weight="500" text-anchor="start" letter-spacing="0">Weekly contributions</text>
+<path d="M32 282H968" stroke="#8c9ac2" stroke-opacity=".17"/>
+<path d="M32 229H968" stroke="#8c9ac2" stroke-opacity=".17"/>
+<text x="968" y="219" font-size="12" fill="#a4b1ce" font-weight="400" text-anchor="end" letter-spacing="0">Weekly peak · 6</text>
+<rect x="35.485" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-01: 0 contributions</title></rect>
+<rect x="55.400" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-04: 0 contributions</title></rect>
+<rect x="75.315" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-11: 0 contributions</title></rect>
+<rect x="95.230" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-18: 0 contributions</title></rect>
+<rect x="115.145" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-25: 0 contributions</title></rect>
+<rect x="135.060" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-01: 0 contributions</title></rect>
+<rect x="154.974" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-08: 0 contributions</title></rect>
+<rect x="174.889" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-15: 0 contributions</title></rect>
+<rect x="194.804" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-22: 0 contributions</title></rect>
+<rect x="214.719" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-01: 0 contributions</title></rect>
+<rect x="234.634" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-08: 0 contributions</title></rect>
+<rect x="254.549" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-15: 0 contributions</title></rect>
+<rect x="274.464" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-22: 0 contributions</title></rect>
+<rect x="294.379" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-29: 0 contributions</title></rect>
+<rect x="314.294" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-05: 0 contributions</title></rect>
+<rect x="334.209" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-12: 0 contributions</title></rect>
+<rect x="354.123" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-19: 0 contributions</title></rect>
+<rect x="374.038" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-26: 0 contributions</title></rect>
+<rect x="393.953" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-03: 0 contributions</title></rect>
+<rect x="413.868" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-10: 0 contributions</title></rect>
+<rect x="433.783" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-17: 0 contributions</title></rect>
+<rect x="453.698" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-24: 0 contributions</title></rect>
+<rect x="473.613" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-31: 0 contributions</title></rect>
+<rect x="493.528" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-07: 0 contributions</title></rect>
+<rect x="513.443" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-14: 0 contributions</title></rect>
+<rect x="533.357" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-21: 0 contributions</title></rect>
+<rect x="553.272" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-28: 0 contributions</title></rect>
+<rect x="573.187" y="264.333" width="12.945" height="17.667" rx="2" fill="url(#bar)"><title>Week of 2026-07-05: 2 contributions</title></rect>
+<rect x="593.102" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-12: 0 contributions</title></rect>
+<rect x="613.017" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-19: 0 contributions</title></rect>
+<rect x="632.932" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-26: 0 contributions</title></rect>
+<rect x="652.847" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-02: 0 contributions</title></rect>
+<rect x="672.762" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-09: 0 contributions</title></rect>
+<rect x="692.677" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-16: 0 contributions</title></rect>
+<rect x="712.591" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-23: 0 contributions</title></rect>
+<rect x="732.506" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-30: 0 contributions</title></rect>
+<rect x="752.421" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-06: 0 contributions</title></rect>
+<rect x="772.336" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-13: 0 contributions</title></rect>
+<rect x="792.251" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-20: 0 contributions</title></rect>
+<rect x="812.166" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-27: 0 contributions</title></rect>
+<rect x="832.081" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-04: 0 contributions</title></rect>
+<rect x="851.996" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-11: 0 contributions</title></rect>
+<rect x="871.911" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-18: 0 contributions</title></rect>
+<rect x="891.826" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-25: 0 contributions</title></rect>
+<rect x="911.740" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-01: 0 contributions</title></rect>
+<rect x="931.655" y="282.000" width="12.945" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-08: 0 contributions</title></rect>
+<rect x="951.570" y="229.000" width="12.945" height="53.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-15: 6 contributions</title></rect>
+<text x="32" y="308" font-size="12" fill="#7282a4" font-weight="400" text-anchor="start" letter-spacing="0">Jan 1, 2026</text>
+<text x="968" y="308" font-size="12" fill="#7282a4" font-weight="400" text-anchor="end" letter-spacing="0">2026-11-17</text>
+<rect x="1" y="351" width="488" height="276" rx="20" fill="url(#panel)" stroke="#8c9ac2" stroke-opacity="0.22"/>
+<text x="26" y="388" font-size="21" fill="#eef2ff" font-weight="600" text-anchor="start" letter-spacing="0">Public code languages</text>
+<text x="26" y="415" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Share of code bytes · non-fork repositories</text>
+<circle cx="108" cy="516" r="59" fill="none" stroke="#27334f" stroke-width="17"/>
+<circle cx="108" cy="516" r="59" fill="none" stroke="#b59bff" stroke-width="17" stroke-dasharray="370.707933 370.707933" stroke-dashoffset="-0.000000" transform="rotate(-90 108 516)"><title>Python: 13,669</title></circle>
+<text x="108" y="520" font-size="31" fill="#eef2ff" font-weight="600" text-anchor="middle" letter-spacing="0">1</text>
+<text x="108" y="545" font-size="12" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">language</text>
+<rect x="205" y="512" width="8" height="8" rx="3" fill="#b59bff" stroke="#8c9ac2" stroke-opacity="0"/>
+<text x="222" y="522" font-size="15" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Python</text>
+<text x="461" y="522" font-size="15" fill="#eef2ff" font-weight="500" text-anchor="end" letter-spacing="0">100.0%</text>
+<text x="26" y="603" font-size="13" fill="#7282a4" font-weight="400" text-anchor="start" letter-spacing="0">Private code is excluded.</text>
+<rect x="511" y="351" width="488" height="276" rx="20" fill="url(#panel)" stroke="#8c9ac2" stroke-opacity="0.22"/>
+<text x="536" y="388" font-size="21" fill="#eef2ff" font-weight="600" text-anchor="start" letter-spacing="0">Contribution rhythm</text>
+<text x="536" y="415" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Contributions by weekday · year to date · UTC</text>
+<path d="M540 580H970" stroke="#8c9ac2" stroke-opacity=".17"/>
+<rect x="556.586" y="559.500" width="28.257" height="20.500" rx="4" fill="url(#bar)"><title>Mon: 1 contributions</title></rect>
+<text x="570.714" y="547.5" font-size="14" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">1</text>
+<text x="570.714" y="608" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">Mon</text>
+<rect x="618.014" y="457.000" width="28.257" height="123.000" rx="4" fill="url(#bar)"><title>Tue: 6 contributions</title></rect>
+<text x="632.143" y="445" font-size="14" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">6</text>
+<text x="632.143" y="608" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">Tue</text>
+<rect x="679.443" y="580.000" width="28.257" height="0.000" rx="4" fill="url(#bar)"><title>Wed: 0 contributions</title></rect>
+<text x="693.571" y="568" font-size="14" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">0</text>
+<text x="693.571" y="608" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">Wed</text>
+<rect x="740.871" y="580.000" width="28.257" height="0.000" rx="4" fill="url(#bar)"><title>Thu: 0 contributions</title></rect>
+<text x="755" y="568" font-size="14" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">0</text>
+<text x="755" y="608" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">Thu</text>
+<rect x="802.300" y="580.000" width="28.257" height="0.000" rx="4" fill="url(#bar)"><title>Fri: 0 contributions</title></rect>
+<text x="816.429" y="568" font-size="14" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">0</text>
+<text x="816.429" y="608" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">Fri</text>
+<rect x="863.729" y="580.000" width="28.257" height="0.000" rx="4" fill="url(#bar)"><title>Sat: 0 contributions</title></rect>
+<text x="877.857" y="568" font-size="14" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">0</text>
+<text x="877.857" y="608" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">Sat</text>
+<rect x="925.157" y="559.500" width="28.257" height="20.500" rx="4" fill="url(#bar)"><title>Sun: 1 contributions</title></rect>
+<text x="939.286" y="547.5" font-size="14" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">1</text>
+<text x="939.286" y="608" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">Sun</text>
+<rect x="1" y="647" width="488" height="276" rx="20" fill="url(#panel)" stroke="#8c9ac2" stroke-opacity="0.22"/>
+<text x="26" y="684" font-size="21" fill="#eef2ff" font-weight="600" text-anchor="start" letter-spacing="0">Public profile</text>
+<text x="26" y="711" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Current public totals</text>
+<path d="M26 812H464" stroke="#8c9ac2" stroke-opacity=".17"/>
+<path d="M245 737V899" stroke="#8c9ac2" stroke-opacity=".17"/>
+<text x="26" y="758" font-size="33" fill="#b59bff" font-weight="600" text-anchor="start" letter-spacing="0">0</text>
+<text x="26" y="786" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Stars received</text>
+<text x="259" y="758" font-size="33" fill="#64d9dc" font-weight="600" text-anchor="start" letter-spacing="0">0</text>
+<text x="259" y="786" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Followers</text>
+<text x="26" y="840" font-size="33" fill="#7da7ff" font-weight="600" text-anchor="start" letter-spacing="0">3</text>
+<text x="26" y="868" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Public repositories</text>
+<text x="259" y="840" font-size="33" fill="#b59bff" font-weight="600" text-anchor="start" letter-spacing="0">3</text>
+<text x="259" y="868" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Active days this year</text>
+<rect x="511" y="647" width="488" height="276" rx="20" fill="url(#panel)" stroke="#8c9ac2" stroke-opacity="0.22"/>
+<text x="536" y="684" font-size="21" fill="#eef2ff" font-weight="600" text-anchor="start" letter-spacing="0">Contribution breakdown</text>
+<text x="536" y="711" font-size="13" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Public contributions · year to date</text>
+<circle cx="618" cy="826" r="59" fill="none" stroke="#27334f" stroke-width="17"/>
+<circle cx="618" cy="826" r="59" fill="none" stroke="#b59bff" stroke-width="17" stroke-dasharray="185.353967 370.707933" stroke-dashoffset="-0.000000" transform="rotate(-90 618 826)"><title>Commits: 4</title></circle>
+<circle cx="618" cy="826" r="59" fill="none" stroke="#e5a0cf" stroke-width="17" stroke-dasharray="139.015475 370.707933" stroke-dashoffset="-185.353967" transform="rotate(-90 618 826)"><title>Repositories: 3</title></circle>
+<circle cx="618" cy="826" r="59" fill="none" stroke="#8e9dbd" stroke-width="17" stroke-dasharray="46.338492 370.707933" stroke-dashoffset="-324.369441" transform="rotate(-90 618 826)"><title>Account joined: 1</title></circle>
+<text x="618" y="830" font-size="31" fill="#eef2ff" font-weight="600" text-anchor="middle" letter-spacing="0">8</text>
+<text x="618" y="855" font-size="12" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">total</text>
+<rect x="715" y="744" width="8" height="8" rx="3" fill="#b59bff" stroke="#8c9ac2" stroke-opacity="0"/>
+<text x="732" y="754" font-size="15" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Commits</text>
+<text x="971" y="754" font-size="15" fill="#eef2ff" font-weight="500" text-anchor="end" letter-spacing="0">4</text>
+<rect x="715" y="770" width="8" height="8" rx="3" fill="#64d9dc" stroke="#8c9ac2" stroke-opacity="0"/>
+<text x="732" y="780" font-size="15" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Issues</text>
+<text x="971" y="780" font-size="15" fill="#eef2ff" font-weight="500" text-anchor="end" letter-spacing="0">0</text>
+<rect x="715" y="796" width="8" height="8" rx="3" fill="#7da7ff" stroke="#8c9ac2" stroke-opacity="0"/>
+<text x="732" y="806" font-size="15" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Pull requests</text>
+<text x="971" y="806" font-size="15" fill="#eef2ff" font-weight="500" text-anchor="end" letter-spacing="0">0</text>
+<rect x="715" y="822" width="8" height="8" rx="3" fill="#f6c387" stroke="#8c9ac2" stroke-opacity="0"/>
+<text x="732" y="832" font-size="15" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Reviews</text>
+<text x="971" y="832" font-size="15" fill="#eef2ff" font-weight="500" text-anchor="end" letter-spacing="0">0</text>
+<rect x="715" y="848" width="8" height="8" rx="3" fill="#e5a0cf" stroke="#8c9ac2" stroke-opacity="0"/>
+<text x="732" y="858" font-size="15" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Repositories</text>
+<text x="971" y="858" font-size="15" fill="#eef2ff" font-weight="500" text-anchor="end" letter-spacing="0">3</text>
+<rect x="715" y="874" width="8" height="8" rx="3" fill="#8e9dbd" stroke="#8c9ac2" stroke-opacity="0"/>
+<text x="732" y="884" font-size="15" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Account joined</text>
+<text x="971" y="884" font-size="15" fill="#eef2ff" font-weight="500" text-anchor="end" letter-spacing="0">1</text>
+<text x="26" y="952" font-size="12" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">GitHub API · Public data only · Refreshed daily</text>
+<text x="974" y="952" font-size="12" fill="#7282a4" font-weight="400" text-anchor="end" letter-spacing="0">Language shares describe code, not skill levels.</text>
+</g></svg>

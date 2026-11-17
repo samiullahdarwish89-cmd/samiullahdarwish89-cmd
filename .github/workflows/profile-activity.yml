@@ -22,6 +22,8 @@ jobs:
     steps:
       - name: Check out this profile repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - name: Check analytics integrity and public-only data guards
+        run: PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests
       - name: Refresh the public-data snapshot
         env:
           GH_TOKEN: ${{ github.token }}
@@ -29,11 +31,11 @@ jobs:
       - name: Commit only the three generated snapshot files
         shell: bash
         run: |
-          git add -- assets/github-activity.svg assets/github-activity-mobile.svg assets/github-public-data.json
-          if git diff --cached --quiet -- assets/github-activity.svg assets/github-activity-mobile.svg assets/github-public-data.json; then
+          git add -- assets/github-analytics.svg assets/github-analytics-mobile.svg assets/github-public-data.json
+          if git diff --cached --quiet -- assets/github-analytics.svg assets/github-analytics-mobile.svg assets/github-public-data.json; then
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Refresh public GitHub activity snapshot' --only -- assets/github-activity.svg assets/github-activity-mobile.svg assets/github-public-data.json
+          git commit -m 'Refresh public GitHub activity snapshot' --only -- assets/github-analytics.svg assets/github-analytics-mobile.svg assets/github-public-data.json
           git push

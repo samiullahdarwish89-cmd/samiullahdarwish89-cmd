@@ -41,11 +41,11 @@ const samiullah = {
   <img src="assets/tech-stack-color.svg" alt="Python, C++, JavaScript, TypeScript, HTML, CSS, React, FastAPI and PostgreSQL" width="1000">
 </picture>
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/github-activity-mobile.svg">
-  <img src="assets/github-activity.svg" alt="Public GitHub activity, refreshed daily. See the linked source data for the exact period and update date." width="1000">
+  <source media="(max-width: 600px)" srcset="assets/github-analytics-mobile.svg">
+  <img src="assets/github-analytics.svg" alt="Samiullah Darwish’s public GitHub analytics: weekly contributions, language shares by public code bytes, weekday activity, public profile totals and contribution types. Refreshed daily; exact values and dates are in the linked source data." width="1000">
 </picture>
 
-<sub>Public activity only · [Source data and update date](assets/github-public-data.json) · [How this card updates](PROFILE-MAINTENANCE.md)</sub>
+<sub>Public activity only · [Source data and update date](assets/github-public-data.json) · [How the charts update](PROFILE-MAINTENANCE.md)</sub>
