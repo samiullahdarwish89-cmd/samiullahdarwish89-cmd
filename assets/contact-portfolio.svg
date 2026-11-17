@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="44" viewBox="0 0 180 44" role="img" aria-labelledby="contact-title contact-desc">
+<title id="contact-title">WEBSITE</title>
+<desc id="contact-desc">Website contact link button.</desc>
+<rect x=".5" y=".5" width="179" height="43" rx="7" fill="#5b46b4" stroke="#8472d5"/>
+<g transform="translate(20 11) scale(.9)" fill="none" stroke="currentColor" color="#fff" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c5 5 5 13 0 18-5-5-5-13 0-18Z"/></g>
+<text x="104" y="27" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.3" text-anchor="middle">WEBSITE</text>
+</svg>

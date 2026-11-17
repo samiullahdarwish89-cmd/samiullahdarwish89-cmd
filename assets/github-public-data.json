@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "login": "samiullahdarwish89-cmd",
+  "public_only": true,
+  "fetched_at": "2026-11-17T09:26:25Z",
+  "period": {
+    "year": 2026,
+    "from": "2026-01-01T00:00:00Z",
+    "to": "2026-11-17T09:26:25Z",
+    "timezone": "UTC"
+  },
+  "sources": [
+    {
+      "path": "/users/samiullahdarwish89-cmd",
+      "fields": [
+        "public_repos"
+      ]
+    },
+    {
+      "path": "/graphql",
+      "fields": [
+        "user.contributionsCollection.restrictedContributionsCount",
+        "user.contributionsCollection.contributionCalendar.totalContributions",
+        "user.contributionsCollection.contributionCalendar.weeks"
+      ]
+    }
+  ],
+  "metrics": {
+    "public_repositories": 2,
+    "public_contributions": 4
+  },
+  "restricted_contributions": 0,
+  "weeks": [
+    {
+      "week_start": "2026-01-01",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-01-04",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-01-11",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-01-18",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-01-25",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-02-01",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-02-08",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-02-15",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-02-22",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-03-01",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-03-08",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-03-15",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-03-22",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-03-29",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-04-05",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-04-12",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-04-19",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-04-26",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-05-03",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-05-10",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-05-17",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-05-24",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-05-31",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-06-07",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-06-14",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-06-21",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-06-28",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-07-05",
+      "contributions": 2
+    },
+    {
+      "week_start": "2026-07-12",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-07-19",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-07-26",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-08-02",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-08-09",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-08-16",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-08-23",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-08-30",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-09-06",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-09-13",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-09-20",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-09-27",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-10-04",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-10-11",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-10-18",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-10-25",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-11-01",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-11-08",
+      "contributions": 0
+    },
+    {
+      "week_start": "2026-11-15",
+      "contributions": 2
+    }
+  ]
+}

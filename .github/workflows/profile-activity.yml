@@ -1,0 +1,39 @@
+name: Refresh public profile activity
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.repository == 'samiullahdarwish89-cmd/samiullahdarwish89-cmd' && github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out this profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - name: Refresh the public-data snapshot
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 tools/update_profile_activity.py
+      - name: Commit only the three generated snapshot files
+        shell: bash
+        run: |
+          git add -- assets/github-activity.svg assets/github-activity-mobile.svg assets/github-public-data.json
+          if git diff --cached --quiet -- assets/github-activity.svg assets/github-activity-mobile.svg assets/github-public-data.json; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh public GitHub activity snapshot' --only -- assets/github-activity.svg assets/github-activity-mobile.svg assets/github-public-data.json
+          git push

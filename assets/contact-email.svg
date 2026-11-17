@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="44" viewBox="0 0 180 44" role="img" aria-labelledby="contact-title contact-desc">
+<title id="contact-title">EMAIL</title>
+<desc id="contact-desc">Email contact link button.</desc>
+<rect x=".5" y=".5" width="179" height="43" rx="7" fill="#ee9688" stroke="#f6b4a8"/>
+<g transform="translate(20 11) scale(.9)" fill="none" stroke="currentColor" color="#1b2029" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m4 7 8 6 8-6"/></g>
+<text x="104" y="27" fill="#1b2029" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.3" text-anchor="middle">EMAIL</text>
+</svg>
