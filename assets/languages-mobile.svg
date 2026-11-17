@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="languages-title languages-description">
+<title id="languages-title">Programming languages</title>
+<desc id="languages-description">Python, C++, JavaScript, TypeScript, HTML and CSS. Ivory and coral language marks with labels on a charcoal background.</desc>
+<rect width="600" height="340" fill="#15181f"/>
+<path d="M200 30V140" stroke="#363b44" stroke-width="1"/>
+<path d="M400 30V140" stroke="#363b44" stroke-width="1"/>
+<path d="M200 198V308" stroke="#363b44" stroke-width="1"/>
+<path d="M400 198V308" stroke="#363b44" stroke-width="1"/>
+<g transform="translate(68 32) scale(1.333333)"><path fill="#f5f1e9" d="M24 5c-8 0-11 2.2-11 6.5V16h12v2H10.5C5.8 18 4 21.8 4 27s2.5 9 7.5 9H15v-6.5c0-5.2 3.2-8 8-8h8c3.2 0 5-1.8 5-5V11c0-4.2-4.5-6-12-6Zm-6.5 5a1.75 1.75 0 1 1 0 3.5 1.75 1.75 0 0 1 0-3.5Z"/>
+<path fill="#f5f1e9" opacity=".94" d="M24 43c8 0 11-2.2 11-6.5V32H23v-2h14.5c4.7 0 6.5-3.8 6.5-9s-2.5-9-7.5-9H33v6.5c0 5.2-3.2 8-8 8h-8c-3.2 0-5 1.8-5 5V37c0 4.2 4.5 6 12 6Zm6.5-5a1.75 1.75 0 1 1 0-3.5 1.75 1.75 0 0 1 0 3.5Z"/>
+<circle cx="30.5" cy="36.25" r="1.4" fill="#f18d80"/></g>
+<text x="100" y="130" fill="#f5f1e9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" text-anchor="middle">Python</text>
+<g transform="translate(268 32) scale(1.333333)"><path d="M29 11a15.5 15.5 0 1 0 0 26" fill="none" stroke="#f5f1e9" stroke-width="6.4" stroke-linecap="butt"/>
+<path d="M35 20v8m-4-4h8m6-4v8m-4-4h8" fill="none" stroke="#f18d80" stroke-width="2.2"/></g>
+<text x="300" y="130" fill="#f5f1e9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" text-anchor="middle">C++</text>
+<g transform="translate(468 32) scale(1.333333)"><rect x="6" y="6" width="36" height="36" rx="1.2" fill="none" stroke="#f5f1e9" stroke-width="1.5"/>
+<path d="M22 20v11c0 3-1.4 4.7-4.1 4.7-1.8 0-3-.7-3.9-2.1M35 22.7c-1-2-5.8-3.4-7.1-.5-2.5 5.7 8.5 4.1 8.5 9.1 0 5-7.7 5.4-10 1.5" fill="none" stroke="#f5f1e9" stroke-width="2.6"/></g>
+<text x="500" y="130" fill="#f5f1e9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" text-anchor="middle">JavaScript</text>
+<g transform="translate(68 200) scale(1.333333)"><rect x="6" y="6" width="36" height="36" rx="1.2" fill="none" stroke="#f5f1e9" stroke-width="1.5"/>
+<path d="M12.5 21h13m-6.5 0v15M35.5 23c-1.1-2.2-5.5-3.5-7-.6-2.5 5.6 8 4.1 8 9.1 0 5-7.5 5.4-9.8 1.5" fill="none" stroke="#f5f1e9" stroke-width="2.6"/></g>
+<text x="100" y="298" fill="#f5f1e9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" text-anchor="middle">TypeScript</text>
+<g transform="translate(268 200) scale(1.333333)"><path d="M8 5h32l-3 34-13 4-13-4Z" fill="#f18d80"/>
+<path d="M32 13H16l1 10h14l-1 10-6 2-6-2-.5-5" fill="none" stroke="#f5f1e9" stroke-width="3.2" stroke-linejoin="miter"/></g>
+<text x="300" y="298" fill="#f5f1e9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" text-anchor="middle">HTML</text>
+<g transform="translate(468 200) scale(1.333333)"><path d="M8 5h32l-3 34-13 4-13-4Z" fill="#f5f1e9"/>
+<path d="M16 13h16l-1 10H20m11 0-1 10-6 2-6-2-.5-5" fill="none" stroke="#15181f" stroke-width="3.2" stroke-linejoin="miter"/></g>
+<text x="500" y="298" fill="#f5f1e9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="500" text-anchor="middle">CSS</text>
+</svg>
