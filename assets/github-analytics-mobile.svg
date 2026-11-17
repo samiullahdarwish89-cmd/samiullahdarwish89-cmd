@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="1824" viewBox="0 0 600 1824" role="img" aria-labelledby="analytics-title analytics-desc">
 <title id="analytics-title">Samiullah Darwish — Public GitHub analytics</title>
-<desc id="analytics-desc">samiullahdarwish89-cmd: 3 public repositories, 8 public contributions, 3 active days from January 1, 2026 through 2026-11-17 UTC. Charts show actual weekly contributions, public code language bytes, weekday contributions and contribution types. Private repositories are excluded.</desc>
+<desc id="analytics-desc">samiullahdarwish89-cmd: 3 public repositories, 9 public contributions, 3 active days from January 1, 2026 through 2026-11-17 UTC. Charts show actual weekly contributions, public code language bytes, weekday contributions and contribution types. Private repositories are excluded.</desc>
 <defs><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#121b30"/><stop offset="1" stop-color="#17172f"/></linearGradient><linearGradient id="hero" x2="1" y2="1"><stop stop-color="#18233c"/><stop offset="1" stop-color="#1a1837"/></linearGradient><linearGradient id="bar" x2="0" y2="1"><stop stop-color="#72e0df"/><stop offset="1" stop-color="#aa8bf5"/></linearGradient></defs>
 <g font-family="Arial,Helvetica,sans-serif">
 <rect x="1" y="1" width="598" height="408" rx="20" fill="url(#hero)" stroke="#8c9ac2" stroke-opacity="0.22"/>
@@ -9,12 +9,12 @@
 <text x="30" y="112" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Public activity · 2026 · updated 2026-11-17</text>
 <text x="30" y="174" font-size="40" fill="#b59bff" font-weight="600" text-anchor="start" letter-spacing="0">3</text>
 <text x="30" y="201" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Public repositories</text>
-<text x="310" y="174" font-size="40" fill="#64d9dc" font-weight="600" text-anchor="start" letter-spacing="0">8</text>
+<text x="310" y="174" font-size="40" fill="#64d9dc" font-weight="600" text-anchor="start" letter-spacing="0">9</text>
 <text x="310" y="201" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Contributions · YTD</text>
 <text x="30" y="241" font-size="20" fill="#eef2ff" font-weight="500" text-anchor="start" letter-spacing="0">Weekly contributions</text>
 <path d="M30 354H570" stroke="#8c9ac2" stroke-opacity=".17"/>
 <path d="M30 263H570" stroke="#8c9ac2" stroke-opacity=".17"/>
-<text x="570" y="253" font-size="19" fill="#a4b1ce" font-weight="400" text-anchor="end" letter-spacing="0">Weekly peak · 6</text>
+<text x="570" y="253" font-size="19" fill="#a4b1ce" font-weight="400" text-anchor="end" letter-spacing="0">Weekly peak · 7</text>
 <rect x="32.011" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-01: 0 contributions</title></rect>
 <rect x="43.500" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-04: 0 contributions</title></rect>
 <rect x="54.989" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-11: 0 contributions</title></rect>
@@ -42,7 +42,7 @@
 <rect x="307.755" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-14: 0 contributions</title></rect>
 <rect x="319.245" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-21: 0 contributions</title></rect>
 <rect x="330.734" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-28: 0 contributions</title></rect>
-<rect x="342.223" y="323.667" width="7.468" height="30.333" rx="2" fill="url(#bar)"><title>Week of 2026-07-05: 2 contributions</title></rect>
+<rect x="342.223" y="328.000" width="7.468" height="26.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-05: 2 contributions</title></rect>
 <rect x="353.713" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-12: 0 contributions</title></rect>
 <rect x="365.202" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-19: 0 contributions</title></rect>
 <rect x="376.691" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-26: 0 contributions</title></rect>
@@ -61,7 +61,7 @@
 <rect x="526.053" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-25: 0 contributions</title></rect>
 <rect x="537.543" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-01: 0 contributions</title></rect>
 <rect x="549.032" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-08: 0 contributions</title></rect>
-<rect x="560.521" y="263.000" width="7.468" height="91.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-15: 6 contributions</title></rect>
+<rect x="560.521" y="263.000" width="7.468" height="91.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-15: 7 contributions</title></rect>
 <text x="30" y="380" font-size="19" fill="#7282a4" font-weight="400" text-anchor="start" letter-spacing="0">Jan 1, 2026</text>
 <text x="570" y="380" font-size="19" fill="#7282a4" font-weight="400" text-anchor="end" letter-spacing="0">2026-11-17</text>
 <rect x="1" y="429" width="598" height="308" rx="20" fill="url(#panel)" stroke="#8c9ac2" stroke-opacity="0.22"/>
@@ -79,11 +79,11 @@
 <text x="30" y="794" font-size="24" fill="#eef2ff" font-weight="600" text-anchor="start" letter-spacing="0">Contribution rhythm</text>
 <text x="30" y="821" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Contributions by weekday · year to date · UTC</text>
 <path d="M33 1028H567" stroke="#8c9ac2" stroke-opacity=".17"/>
-<rect x="53.597" y="1002.167" width="35.091" height="25.833" rx="4" fill="url(#bar)"><title>Mon: 1 contributions</title></rect>
-<text x="71.1429" y="990.167" font-size="19" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">1</text>
+<rect x="53.597" y="1005.857" width="35.091" height="22.143" rx="4" fill="url(#bar)"><title>Mon: 1 contributions</title></rect>
+<text x="71.1429" y="993.857" font-size="19" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">1</text>
 <text x="71.1429" y="1056" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">Mon</text>
-<rect x="129.883" y="873.000" width="35.091" height="155.000" rx="4" fill="url(#bar)"><title>Tue: 6 contributions</title></rect>
-<text x="147.429" y="861" font-size="19" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">6</text>
+<rect x="129.883" y="873.000" width="35.091" height="155.000" rx="4" fill="url(#bar)"><title>Tue: 7 contributions</title></rect>
+<text x="147.429" y="861" font-size="19" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">7</text>
 <text x="147.429" y="1056" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">Tue</text>
 <rect x="206.169" y="1028.000" width="35.091" height="0.000" rx="4" fill="url(#bar)"><title>Wed: 0 contributions</title></rect>
 <text x="223.714" y="1016" font-size="19" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">0</text>
@@ -97,8 +97,8 @@
 <rect x="435.026" y="1028.000" width="35.091" height="0.000" rx="4" fill="url(#bar)"><title>Sat: 0 contributions</title></rect>
 <text x="452.571" y="1016" font-size="19" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">0</text>
 <text x="452.571" y="1056" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">Sat</text>
-<rect x="511.311" y="1002.167" width="35.091" height="25.833" rx="4" fill="url(#bar)"><title>Sun: 1 contributions</title></rect>
-<text x="528.857" y="990.167" font-size="19" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">1</text>
+<rect x="511.311" y="1005.857" width="35.091" height="22.143" rx="4" fill="url(#bar)"><title>Sun: 1 contributions</title></rect>
+<text x="528.857" y="993.857" font-size="19" fill="#eef2ff" font-weight="500" text-anchor="middle" letter-spacing="0">1</text>
 <text x="528.857" y="1056" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">Sun</text>
 <rect x="1" y="1095" width="598" height="308" rx="20" fill="url(#panel)" stroke="#8c9ac2" stroke-opacity="0.22"/>
 <text x="30" y="1132" font-size="24" fill="#eef2ff" font-weight="600" text-anchor="start" letter-spacing="0">Public profile</text>
@@ -117,14 +117,14 @@
 <text x="30" y="1460" font-size="24" fill="#eef2ff" font-weight="600" text-anchor="start" letter-spacing="0">Contribution breakdown</text>
 <text x="30" y="1487" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Public contributions · year to date</text>
 <circle cx="117" cy="1616" r="67" fill="none" stroke="#27334f" stroke-width="19"/>
-<circle cx="117" cy="1616" r="67" fill="none" stroke="#b59bff" stroke-width="19" stroke-dasharray="210.486708 420.973416" stroke-dashoffset="-0.000000" transform="rotate(-90 117 1616)"><title>Commits: 4</title></circle>
-<circle cx="117" cy="1616" r="67" fill="none" stroke="#e5a0cf" stroke-width="19" stroke-dasharray="157.865031 420.973416" stroke-dashoffset="-210.486708" transform="rotate(-90 117 1616)"><title>Repositories: 3</title></circle>
-<circle cx="117" cy="1616" r="67" fill="none" stroke="#8e9dbd" stroke-width="19" stroke-dasharray="52.621677 420.973416" stroke-dashoffset="-368.351739" transform="rotate(-90 117 1616)"><title>Account joined: 1</title></circle>
-<text x="117" y="1620" font-size="35" fill="#eef2ff" font-weight="600" text-anchor="middle" letter-spacing="0">8</text>
+<circle cx="117" cy="1616" r="67" fill="none" stroke="#b59bff" stroke-width="19" stroke-dasharray="233.874120 420.973416" stroke-dashoffset="-0.000000" transform="rotate(-90 117 1616)"><title>Commits: 5</title></circle>
+<circle cx="117" cy="1616" r="67" fill="none" stroke="#e5a0cf" stroke-width="19" stroke-dasharray="140.324472 420.973416" stroke-dashoffset="-233.874120" transform="rotate(-90 117 1616)"><title>Repositories: 3</title></circle>
+<circle cx="117" cy="1616" r="67" fill="none" stroke="#8e9dbd" stroke-width="19" stroke-dasharray="46.774824 420.973416" stroke-dashoffset="-374.198592" transform="rotate(-90 117 1616)"><title>Account joined: 1</title></circle>
+<text x="117" y="1620" font-size="35" fill="#eef2ff" font-weight="600" text-anchor="middle" letter-spacing="0">9</text>
 <text x="117" y="1645" font-size="18" fill="#a4b1ce" font-weight="400" text-anchor="middle" letter-spacing="0">total</text>
 <rect x="224" y="1527" width="8" height="8" rx="3" fill="#b59bff" stroke="#8c9ac2" stroke-opacity="0"/>
 <text x="241" y="1537" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Commits</text>
-<text x="569" y="1537" font-size="20" fill="#eef2ff" font-weight="500" text-anchor="end" letter-spacing="0">4</text>
+<text x="569" y="1537" font-size="20" fill="#eef2ff" font-weight="500" text-anchor="end" letter-spacing="0">5</text>
 <rect x="224" y="1558" width="8" height="8" rx="3" fill="#64d9dc" stroke="#8c9ac2" stroke-opacity="0"/>
 <text x="241" y="1568" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Issues</text>
 <text x="569" y="1568" font-size="20" fill="#eef2ff" font-weight="500" text-anchor="end" letter-spacing="0">0</text>
