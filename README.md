@@ -1,4 +1,4 @@
-![Samiullah Darwish — Software Developer](assets/profile-banner-night.png)
+![Samiullah Darwish — Software Developer](assets/profile-banner-night.jpg)
 
 ## 🎯 About Me
 
