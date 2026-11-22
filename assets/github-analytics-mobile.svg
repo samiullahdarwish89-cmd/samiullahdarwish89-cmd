@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="1824" viewBox="0 0 600 1824" role="img" aria-labelledby="analytics-title analytics-desc">
 <title id="analytics-title">Samiullah Darwish — Public GitHub analytics</title>
-<desc id="analytics-desc">samiullahdarwish89-cmd: 3 public repositories, 9 public contributions, 3 active days from January 1, 2026 through 2026-11-21 UTC. Charts show actual weekly contributions, public code language bytes, weekday contributions and contribution types. Private repositories are excluded.</desc>
+<desc id="analytics-desc">samiullahdarwish89-cmd: 3 public repositories, 9 public contributions, 3 active days from January 1, 2026 through 2026-11-22 UTC. Charts show actual weekly contributions, public code language bytes, weekday contributions and contribution types. Private repositories are excluded.</desc>
 <defs><linearGradient id="panel" x2="1" y2="1"><stop stop-color="#121b30"/><stop offset="1" stop-color="#17172f"/></linearGradient><linearGradient id="hero" x2="1" y2="1"><stop stop-color="#18233c"/><stop offset="1" stop-color="#1a1837"/></linearGradient><linearGradient id="bar" x2="0" y2="1"><stop stop-color="#72e0df"/><stop offset="1" stop-color="#aa8bf5"/></linearGradient></defs>
 <g font-family="Arial,Helvetica,sans-serif">
 <rect x="1" y="1" width="598" height="408" rx="20" fill="url(#hero)" stroke="#8c9ac2" stroke-opacity="0.22"/>
 <text x="30" y="36" font-size="19" fill="#9ecedc" font-weight="600" text-anchor="start" letter-spacing="2">GITHUB / ANALYTICS</text>
 <text x="30" y="81" font-size="33" fill="#eef2ff" font-weight="600" text-anchor="start" letter-spacing="0">Samiullah Darwish</text>
-<text x="30" y="112" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Public activity · 2026 · updated 2026-11-21</text>
+<text x="30" y="112" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Public activity · 2026 · updated 2026-11-22</text>
 <text x="30" y="174" font-size="40" fill="#b59bff" font-weight="600" text-anchor="start" letter-spacing="0">3</text>
 <text x="30" y="201" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Public repositories</text>
 <text x="310" y="174" font-size="40" fill="#64d9dc" font-weight="600" text-anchor="start" letter-spacing="0">9</text>
@@ -15,55 +15,56 @@
 <path d="M30 354H570" stroke="#8c9ac2" stroke-opacity=".17"/>
 <path d="M30 263H570" stroke="#8c9ac2" stroke-opacity=".17"/>
 <text x="570" y="253" font-size="19" fill="#a4b1ce" font-weight="400" text-anchor="end" letter-spacing="0">Weekly peak · 7</text>
-<rect x="32.011" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-01: 0 contributions</title></rect>
-<rect x="43.500" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-04: 0 contributions</title></rect>
-<rect x="54.989" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-11: 0 contributions</title></rect>
-<rect x="66.479" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-18: 0 contributions</title></rect>
-<rect x="77.968" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-25: 0 contributions</title></rect>
-<rect x="89.457" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-01: 0 contributions</title></rect>
-<rect x="100.947" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-08: 0 contributions</title></rect>
-<rect x="112.436" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-15: 0 contributions</title></rect>
-<rect x="123.926" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-22: 0 contributions</title></rect>
-<rect x="135.415" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-01: 0 contributions</title></rect>
-<rect x="146.904" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-08: 0 contributions</title></rect>
-<rect x="158.394" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-15: 0 contributions</title></rect>
-<rect x="169.883" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-22: 0 contributions</title></rect>
-<rect x="181.372" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-29: 0 contributions</title></rect>
-<rect x="192.862" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-05: 0 contributions</title></rect>
-<rect x="204.351" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-12: 0 contributions</title></rect>
-<rect x="215.840" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-19: 0 contributions</title></rect>
-<rect x="227.330" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-26: 0 contributions</title></rect>
-<rect x="238.819" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-03: 0 contributions</title></rect>
-<rect x="250.309" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-10: 0 contributions</title></rect>
-<rect x="261.798" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-17: 0 contributions</title></rect>
-<rect x="273.287" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-24: 0 contributions</title></rect>
-<rect x="284.777" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-31: 0 contributions</title></rect>
-<rect x="296.266" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-07: 0 contributions</title></rect>
-<rect x="307.755" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-14: 0 contributions</title></rect>
-<rect x="319.245" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-21: 0 contributions</title></rect>
-<rect x="330.734" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-28: 0 contributions</title></rect>
-<rect x="342.223" y="328.000" width="7.468" height="26.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-05: 2 contributions</title></rect>
-<rect x="353.713" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-12: 0 contributions</title></rect>
-<rect x="365.202" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-19: 0 contributions</title></rect>
-<rect x="376.691" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-26: 0 contributions</title></rect>
-<rect x="388.181" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-02: 0 contributions</title></rect>
-<rect x="399.670" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-09: 0 contributions</title></rect>
-<rect x="411.160" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-16: 0 contributions</title></rect>
-<rect x="422.649" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-23: 0 contributions</title></rect>
-<rect x="434.138" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-30: 0 contributions</title></rect>
-<rect x="445.628" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-06: 0 contributions</title></rect>
-<rect x="457.117" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-13: 0 contributions</title></rect>
-<rect x="468.606" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-20: 0 contributions</title></rect>
-<rect x="480.096" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-27: 0 contributions</title></rect>
-<rect x="491.585" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-04: 0 contributions</title></rect>
-<rect x="503.074" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-11: 0 contributions</title></rect>
-<rect x="514.564" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-18: 0 contributions</title></rect>
-<rect x="526.053" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-25: 0 contributions</title></rect>
-<rect x="537.543" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-01: 0 contributions</title></rect>
-<rect x="549.032" y="354.000" width="7.468" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-08: 0 contributions</title></rect>
-<rect x="560.521" y="263.000" width="7.468" height="91.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-15: 7 contributions</title></rect>
+<rect x="31.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-01: 0 contributions</title></rect>
+<rect x="43.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-04: 0 contributions</title></rect>
+<rect x="54.469" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-11: 0 contributions</title></rect>
+<rect x="65.719" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-18: 0 contributions</title></rect>
+<rect x="76.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-01-25: 0 contributions</title></rect>
+<rect x="88.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-01: 0 contributions</title></rect>
+<rect x="99.469" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-08: 0 contributions</title></rect>
+<rect x="110.719" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-15: 0 contributions</title></rect>
+<rect x="121.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-02-22: 0 contributions</title></rect>
+<rect x="133.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-01: 0 contributions</title></rect>
+<rect x="144.469" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-08: 0 contributions</title></rect>
+<rect x="155.719" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-15: 0 contributions</title></rect>
+<rect x="166.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-22: 0 contributions</title></rect>
+<rect x="178.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-03-29: 0 contributions</title></rect>
+<rect x="189.469" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-05: 0 contributions</title></rect>
+<rect x="200.719" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-12: 0 contributions</title></rect>
+<rect x="211.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-19: 0 contributions</title></rect>
+<rect x="223.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-04-26: 0 contributions</title></rect>
+<rect x="234.469" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-03: 0 contributions</title></rect>
+<rect x="245.719" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-10: 0 contributions</title></rect>
+<rect x="256.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-17: 0 contributions</title></rect>
+<rect x="268.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-24: 0 contributions</title></rect>
+<rect x="279.469" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-05-31: 0 contributions</title></rect>
+<rect x="290.719" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-07: 0 contributions</title></rect>
+<rect x="301.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-14: 0 contributions</title></rect>
+<rect x="313.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-21: 0 contributions</title></rect>
+<rect x="324.469" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-06-28: 0 contributions</title></rect>
+<rect x="335.719" y="328.000" width="7.312" height="26.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-05: 2 contributions</title></rect>
+<rect x="346.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-12: 0 contributions</title></rect>
+<rect x="358.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-19: 0 contributions</title></rect>
+<rect x="369.469" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-07-26: 0 contributions</title></rect>
+<rect x="380.719" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-02: 0 contributions</title></rect>
+<rect x="391.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-09: 0 contributions</title></rect>
+<rect x="403.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-16: 0 contributions</title></rect>
+<rect x="414.469" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-23: 0 contributions</title></rect>
+<rect x="425.719" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-08-30: 0 contributions</title></rect>
+<rect x="436.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-06: 0 contributions</title></rect>
+<rect x="448.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-13: 0 contributions</title></rect>
+<rect x="459.469" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-20: 0 contributions</title></rect>
+<rect x="470.719" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-09-27: 0 contributions</title></rect>
+<rect x="481.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-04: 0 contributions</title></rect>
+<rect x="493.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-11: 0 contributions</title></rect>
+<rect x="504.469" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-18: 0 contributions</title></rect>
+<rect x="515.719" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-10-25: 0 contributions</title></rect>
+<rect x="526.969" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-01: 0 contributions</title></rect>
+<rect x="538.219" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-08: 0 contributions</title></rect>
+<rect x="549.469" y="263.000" width="7.312" height="91.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-15: 7 contributions</title></rect>
+<rect x="560.719" y="354.000" width="7.312" height="0.000" rx="2" fill="url(#bar)"><title>Week of 2026-11-22: 0 contributions</title></rect>
 <text x="30" y="380" font-size="19" fill="#7282a4" font-weight="400" text-anchor="start" letter-spacing="0">Jan 1, 2026</text>
-<text x="570" y="380" font-size="19" fill="#7282a4" font-weight="400" text-anchor="end" letter-spacing="0">2026-11-21</text>
+<text x="570" y="380" font-size="19" fill="#7282a4" font-weight="400" text-anchor="end" letter-spacing="0">2026-11-22</text>
 <rect x="1" y="429" width="598" height="308" rx="20" fill="url(#panel)" stroke="#8c9ac2" stroke-opacity="0.22"/>
 <text x="30" y="466" font-size="24" fill="#eef2ff" font-weight="600" text-anchor="start" letter-spacing="0">Public code languages</text>
 <text x="30" y="493" font-size="20" fill="#a4b1ce" font-weight="400" text-anchor="start" letter-spacing="0">Share of code bytes · non-fork repositories</text>
